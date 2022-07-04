@@ -19,6 +19,7 @@ As a fullstack developer i prioritize most of my time for Javascript and php .
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/LARAVEL-777BB4?style=for-the-badge&logo=LARAVEL&logoColor=white)
 ## Frameworks, Platforms and Libraries
 ![React js](https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react.js&logoColor=blue)
 ![Vue js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
